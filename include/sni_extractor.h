@@ -1,3 +1,4 @@
+// Extracts TLS SNI and HTTP host information for traffic classification
 #ifndef SNI_EXTRACTOR_H
 #define SNI_EXTRACTOR_H
 
