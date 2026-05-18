@@ -1,3 +1,6 @@
+// Core DPI engine responsible for traffic inspection and orchestration
+
+// Coordinates packet classification and rule evaluation pipeline
 #include "dpi_engine.h"
 #include <iostream>
 #include <sstream>
