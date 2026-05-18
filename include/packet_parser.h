@@ -1,3 +1,4 @@
+// Packet parsing utilities for Ethernet, IP, TCP, and UDP headers
 #ifndef PACKET_PARSER_H
 #define PACKET_PARSER_H
 
