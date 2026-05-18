@@ -1,3 +1,4 @@
+// Provides PCAP file reading and packet extraction utilities
 #ifndef PCAP_READER_H
 #define PCAP_READER_H
 
