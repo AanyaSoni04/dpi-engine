@@ -1,4 +1,4 @@
-// Simple single-threaded test version
+// Simplified single-threaded DPI implementation for testing and learning
 #include <iostream>
 #include "pcap_reader.h"
 #include "packet_parser.h"
