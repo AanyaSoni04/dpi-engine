@@ -1,3 +1,4 @@
+// Handles sequential reading of packets from PCAP capture files
 #include "pcap_reader.h"
 #include <iostream>
 #include <cstring>
