@@ -1,3 +1,6 @@
+// Distributes incoming packets across worker threads
+
+// Uses hash-based flow distribution for consistent processing
 #include "load_balancer.h"
 #include <iostream>
 #include <chrono>
