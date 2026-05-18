@@ -1,3 +1,4 @@
+// Thread-safe queue implementation for producer-consumer communication
 #ifndef THREAD_SAFE_QUEUE_H
 #define THREAD_SAFE_QUEUE_H
 
