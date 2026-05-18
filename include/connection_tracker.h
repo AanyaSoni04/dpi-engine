@@ -1,3 +1,6 @@
+// Handles flow/session tracking for network connections
+
+// Maintains state using five-tuple based connection mapping
 #ifndef CONNECTION_TRACKER_H
 #define CONNECTION_TRACKER_H
 
