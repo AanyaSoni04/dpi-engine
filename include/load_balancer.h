@@ -1,3 +1,4 @@
+// Load balancer interface for distributing packets across worker threads
 #ifndef LOAD_BALANCER_H
 #define LOAD_BALANCER_H
 
