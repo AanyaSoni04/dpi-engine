@@ -1,3 +1,4 @@
+// Handles initialization of DPI processing components
 #include <iostream>
 #include <string>
 #include <sstream>
