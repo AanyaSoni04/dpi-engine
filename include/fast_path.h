@@ -1,3 +1,4 @@
+// Defines fast-path worker interface for parallel packet processing
 #ifndef FAST_PATH_H
 #define FAST_PATH_H
 
