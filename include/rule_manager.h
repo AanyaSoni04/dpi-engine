@@ -1,3 +1,4 @@
+// Manages filtering and blocking rules for DPI traffic inspection
 #ifndef RULE_MANAGER_H
 #define RULE_MANAGER_H
 
