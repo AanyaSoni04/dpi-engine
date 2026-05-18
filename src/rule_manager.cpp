@@ -1,3 +1,6 @@
+// Applies blocking and filtering rules during packet inspection
+
+// Supports application, domain, and IP-based filtering
 #include "rule_manager.h"
 #include <sstream>
 #include <iostream>
