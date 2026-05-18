@@ -1,3 +1,4 @@
+// Core DPI engine interface for packet inspection and traffic analysis
 #ifndef DPI_ENGINE_H
 #define DPI_ENGINE_H
 
