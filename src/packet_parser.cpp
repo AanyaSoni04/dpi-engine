@@ -1,3 +1,6 @@
+// Parses Ethernet, IP, TCP, and UDP packet headers
+
+// Extracts protocol metadata required for DPI analysis
 #include "packet_parser.h"
 #include "platform.h"
 #include <sstream>
