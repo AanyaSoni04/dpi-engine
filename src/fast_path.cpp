@@ -1,3 +1,6 @@
+// Fast-path worker for high-speed packet processing
+
+// Optimized for parallel packet inspection workloads
 #include "fast_path.h"
 #include <iostream>
 #include <sstream>
