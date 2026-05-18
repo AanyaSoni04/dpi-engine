@@ -1,3 +1,4 @@
+// Platform-specific utility definitions and compatibility macros
 #ifndef PLATFORM_H
 #define PLATFORM_H
 
