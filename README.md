@@ -82,7 +82,7 @@ TLS Client Hello:
 
 ---
 
-## 3. Project Overview
+## 2. Project Overview
 
 ### What This Project Does
 
@@ -106,7 +106,7 @@ TLS Client Hello:
 
 ---
 
-## 4. File Structure
+## 3. File Structure
 
 ```
 packet_analyzer/
@@ -141,7 +141,7 @@ packet_analyzer/
 
 ---
 
-## 5. The Journey of a Packet (Multi-threaded Version)
+## 4. The Journey of a Packet (Multi-threaded Version)
 
 The multi-threaded version (`dpi_mt.cpp`) adds **parallelism** for high performance:
 
@@ -218,7 +218,7 @@ FP2 can track the flow state correctly.
 
 
 
-## 8. How SNI Extraction Works
+## 6. How SNI Extraction Works
 
 ### The TLS Handshake
 
@@ -282,7 +282,7 @@ Extension Length: L
 
 ---
 
-## 9. How Blocking Works
+## 7. How Blocking Works
 
 ### Rule Types
 
@@ -341,7 +341,7 @@ Connection to YouTube:
 
 ---
 
-## 10. Building and Running
+## 8. Building and Running
 
 ### Prerequisites
 
@@ -402,7 +402,7 @@ python3 generate_test_pcap.py
 
 ---
 
-## 11. Understanding the Output
+## 8. Understanding the Output
 
 ### Sample Output
 
@@ -471,7 +471,7 @@ python3 generate_test_pcap.py
 
 ---
 
-## 12. Extending the Project
+## 9. Extending the Project
 
 ### Ideas for Improvement
 
